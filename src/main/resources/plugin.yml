@@ -1,0 +1,4 @@
+name: epbst-plugin
+version: '${version}'
+main: com.epbst.epbstplugin.Epbst_plugin
+api-version: 1.19
